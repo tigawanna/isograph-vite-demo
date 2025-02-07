@@ -13,14 +13,14 @@
      "iso-watch":"iso --config ./isograph.config.json --watch"
   },
   "dependencies": {
-    "@isograph/react": "0.3.0",
+    "@isograph/react": "0.0.0-main-ea95eb02",
     "react": "18.3.1",
     "react-dom": "18.3.1"
   },
   "devDependencies": {
     "@babel/preset-typescript": "^7.24.7",
     "@eslint/js": "^9.11.1",
-    "@isograph/babel-plugin": "^0.3.0",
+    "@isograph/babel-plugin": "0.0.0-main-ea95eb02",
     "@isograph/compiler": "0.0.0-main-ea95eb02",
     "@types/node": "^22.7.5",
     "@types/react": "18.3.1",
